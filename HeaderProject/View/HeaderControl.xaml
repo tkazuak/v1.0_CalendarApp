@@ -1,0 +1,21 @@
+﻿<UserControl x:Class="HeaderProject.View.HeaderControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:HeaderProject"
+             Width="Auto" Height="50">
+    <Grid Background="White">
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Text="Calendar" HorizontalAlignment="Left" FontSize="10"/>
+            <StackPanel >
+            <TextBlock Text="ログインID" HorizontalAlignment="Right" FontSize="10" Margin="700,0,0,0"/>
+                <TextBlock Text="{Binding UserID}" HorizontalAlignment="Right" FontSize="10" Margin="700,0,0,0"/>
+            </StackPanel>
+        </StackPanel>
+        
+       
+        
+        
+        
+        
+    </Grid>
+</UserControl>

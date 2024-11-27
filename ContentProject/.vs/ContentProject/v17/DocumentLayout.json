@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CalendarProject\\ContentProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{137EF494-EDF1-4E75-9A84-EE08E10309BD}|ContentProject.csproj|c:\\users\\calendarproject\\contentproject\\viewmodel\\contentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137EF494-EDF1-4E75-9A84-EE08E10309BD}|ContentProject.csproj|solutionrelative:viewmodel\\contentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137EF494-EDF1-4E75-9A84-EE08E10309BD}|ContentProject.csproj|c:\\users\\calendarproject\\contentproject\\model\\contentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{137EF494-EDF1-4E75-9A84-EE08E10309BD}|ContentProject.csproj|solutionrelative:model\\contentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{137EF494-EDF1-4E75-9A84-EE08E10309BD}|ContentProject.csproj|c:\\users\\calendarproject\\contentproject\\contentproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{137EF494-EDF1-4E75-9A84-EE08E10309BD}|ContentProject.csproj|solutionrelative:contentproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ContentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\CalendarProject\\ContentProject\\ViewModel\\ContentViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\ContentViewModel.cs",
+              "ToolTip": "C:\\Users\\CalendarProject\\ContentProject\\ViewModel\\ContentViewModel.cs",
+              "RelativeToolTip": "ViewModel\\ContentViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:20:45.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContentModel.cs",
+              "DocumentMoniker": "C:\\Users\\CalendarProject\\ContentProject\\Model\\ContentModel.cs",
+              "RelativeDocumentMoniker": "Model\\ContentModel.cs",
+              "ToolTip": "C:\\Users\\CalendarProject\\ContentProject\\Model\\ContentModel.cs",
+              "RelativeToolTip": "Model\\ContentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T07:19:25.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ContentProject.csproj",
+              "DocumentMoniker": "C:\\Users\\CalendarProject\\ContentProject\\ContentProject.csproj",
+              "RelativeDocumentMoniker": "ContentProject.csproj",
+              "ToolTip": "C:\\Users\\CalendarProject\\ContentProject\\ContentProject.csproj",
+              "RelativeToolTip": "ContentProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T07:18:23.368Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
