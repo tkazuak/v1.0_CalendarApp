@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ContentProject\ContentProject.csproj" />
+    <ProjectReference Include="..\FooterProject\FooterProject.csproj" />
+    <ProjectReference Include="..\HeaderProject\HeaderProject.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="ContentProject">
+      <HintPath>..\ContentProject\bin\Debug\net8.0-windows\ContentProject.dll</HintPath>
+    </Reference>
+    <Reference Include="FooterProject">
+      <HintPath>..\FooterProject\bin\Debug\net8.0-windows\FooterProject.dll</HintPath>
+    </Reference>
+    <Reference Include="HeaderProject">
+      <HintPath>..\HeaderProject\bin\Debug\net8.0-windows\HeaderProject.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,26 @@
+﻿<Window x:Class="CalendarProject_App.View.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:CalendarProject_App.View"
+        mc:Ignorable="d"
+        Title="Login" Height="450" Width="800">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <!--ログインID-->
+            <StackPanel Orientation="Horizontal">
+                <TextBlock Text="ログインID" FontSize="30"/>
+                <TextBox Text="{Binding UserId}" Height="40" Width="200" Margin="30,0,0,0"/>
+            </StackPanel>
+
+            <!--ログインパスワード-->
+            <StackPanel Orientation="Horizontal" Margin="0,10,0,0">
+                <TextBlock Text="パスワード" FontSize="30"/>
+                <TextBox Text="{Binding UserPass}" Height="40" Width="200" Margin="35,0,0,0"/>
+            </StackPanel>
+
+            <Button Command="{Binding CmdLoginCheck}" Content="ログイン" Height="40" Width="100" Margin="0,30,0,0"/>
+        </StackPanel>
+    </Grid>
+</Window>
