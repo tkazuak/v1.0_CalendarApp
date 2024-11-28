@@ -9,7 +9,9 @@
             <StackPanel >
             <TextBlock Text="ログインID" HorizontalAlignment="Right" FontSize="10" Margin="700,0,0,0"/>
                 <TextBlock Text="{Binding UserID}" HorizontalAlignment="Right" FontSize="10" Margin="700,0,0,0"/>
+                <TextBox Width="200"/>
             </StackPanel>
+          
         </StackPanel>
         
        
