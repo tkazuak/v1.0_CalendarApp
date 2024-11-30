@@ -44,3 +44,4 @@ C:\Users\CalendarProject\v1.0_CalendarApp\HeaderProject\obj\Debug\net8.0-windows
 C:\Users\CalendarProject\v1.0_CalendarApp\HeaderProject\obj\Debug\net8.0-windows\HeaderProject.pdb
 C:\Users\CalendarProject\v1.0_CalendarApp\HeaderProject\obj\Debug\net8.0-windows\HeaderProject.genruntimeconfig.cache
 C:\Users\CalendarProject\v1.0_CalendarApp\HeaderProject\obj\Debug\net8.0-windows\ref\HeaderProject.dll
+C:\Users\CalendarProject\v1.0_CalendarApp\HeaderProject\obj\Debug\net8.0-windows\HeaderProject.sourcelink.json
